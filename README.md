@@ -1,7 +1,7 @@
 # Test31
 
-[Chapter 1](main/1 - Chapter 1.md)
-[Chapter 2](main/4 - Chapter Three.md)
+[Chapter 1](main/Chapter 1.md)
+[Chapter 3](main/Chapter Three.md)
 
 ## Heading 2
 
